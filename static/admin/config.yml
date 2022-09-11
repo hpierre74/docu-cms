@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: main 
+  branch: master 
   repo: hpierre74/docu-cms
 
 # These lines should *not* be indented
